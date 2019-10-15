@@ -1,4 +1,4 @@
-package com.henanhist.chapter_one;
+package com.henanhist.chapterOne;
 
 public class CaseOne {
     public static void main(String[] args){
